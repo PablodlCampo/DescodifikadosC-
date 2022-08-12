@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Clases\Humano.cs" />
+    <Compile Remove="Clases\Kaprekar.cs" />
+    <Compile Remove="Clases\MasterMind.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Sync\Personal\Proyectos\Activos\Cursos\Mios\Iniciacion C#\ALFA\Segunda Aplicacion\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
